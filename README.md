@@ -1,25 +1,21 @@
 # Tevican game privacy policies
 
-This repository stores the original privacy-policy texts for games published on Google Play under the **NetiKOD** developer name.
+This repository stores privacy-policy texts for games developed and published by **NetiKOD** under the **Tevican** independent game-development brand. Tevican is not a separately registered company.
 
-**Tevican** is the independent game-development brand used by NetiKOD. It is not a separately registered company.
+## Currently published policy
 
-## Public privacy policy pages
+- **Vampire Test:** https://tevican.github.io/policies/vampire-test/ — [source document](VampireTest/Privacy%20Policy)
 
-| Game | Public URL | Source document |
-|---|---|---|
-| Vampire Test | https://tevican.github.io/policies/vampire-test/ | [VampireTest/Privacy Policy](VampireTest/Privacy%20Policy) |
-| Bulls and Cows | https://tevican.github.io/policies/bulls-and-cows/ | [BullsAndCows/Privacy Policy](BullsAndCows/Privacy%20Policy) |
-| Cubic Collapse | https://tevican.github.io/policies/cubic-collapse/ | [CubicCollapse/Privacy Policy](CubicCollapse/Privacy%20Policy) |
-| Hidden Pirate | https://tevican.github.io/policies/hidden-pirate/ | [HiddenPirate/Privacy Policy](HiddenPirate/Privacy%20Policy) |
-| Totem Journey | https://tevican.github.io/policies/totem-journey/ | [TotemJourney/Privacy Policy](TotemJourney/Privacy%20Policy) |
+## Archive
+
+Documents for games that are no longer published remain in their original directories as an archive. They are **not linked from the public Tevican website**, and their former hosted policy pages have been removed. Do not use the old `tevican.github.io/policies/...` links for discontinued games.
 
 Contact: tevican.com@gmail.com
 
 ## Maintenance
 
-The source documents in this repository are mirrored as readable static HTML on the [Tevican developer website](https://github.com/tevican/tevican.github.io). When a source policy changes, update its corresponding HTML page there as well.
+The active policy is also available as static HTML on the [Tevican developer website](https://github.com/tevican/tevican.github.io). When updating an active policy here, update its corresponding HTML page there too.
 
-The October 2026 updates standardized developer/brand attribution and some game-name spelling. **The descriptions of data collection, advertising, third-party SDKs, and retention were not independently audited or rewritten.** Before treating these policies as current, compare them with shipped application versions, installed SDKs, Google Play Data safety declarations, and local legal requirements. Remove or repair references to nonexistent Terms and Conditions if necessary.
+The October 2026 changes standardized developer/brand attribution. **Statements about data collection, advertising, third-party SDKs, and retention have not been independently audited.** Before using a policy as current, compare it with shipped application versions, SDKs, Google Play Data safety declarations, and applicable legal requirements.
 
-These policies are privacy notices, not End User License Agreements (EULAs).
+These documents are privacy notices, not End User License Agreements (EULAs).
